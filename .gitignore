@@ -1,0 +1,8 @@
+*.pyc
+*~
+/*/.idea
+/*/venv
+/django_default
+/*/__pycache__
+/*/db.sqlite3
+/*/.DS_Store
